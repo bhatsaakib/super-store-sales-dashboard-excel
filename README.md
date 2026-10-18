@@ -4,7 +4,7 @@ Project Overview
 
 An interactive sales dashboard built using Microsoft Excel to analyze sales performance and key business metrics.
 
-Dashboard Preview
+Dashboard Preview ![Super Store Dasboard](Dashboard%20Image.png)
 
 Key Performance Indicators (KPIs)
 
